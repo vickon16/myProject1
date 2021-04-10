@@ -1,0 +1,43 @@
+
+/* font-family: abel */
+
+@font-face {
+    font-family: Abel;
+    src:url(./fonts/Abel/Abel-Regular.ttf);
+}
+
+/* font-family:anton */
+@font-face {
+    font-family: Anton;
+    src:url(./fonts/Anton/Anton-Regular.ttf);
+}
+
+/* font-family:josefin */
+@font-face {
+    font-family: Josefin;
+    src:url(./fonts/Josefin_Sans/JosefinSans-VariableFont_wght.ttf);
+}
+
+/* font-family:Lexend */
+@font-face {
+    font-family: Lexend;
+    src:url(./fonts/Lexend_Deca/LexendDeca-Regular.ttf);
+}
+
+/* font-family:livvic */
+@font-face {
+    font-family: Livvic;
+    src:url(./fonts/Livvic/Livvic-Regular.ttf);
+}
+
+/* font-family:Neue */
+@font-face {
+    font-family: ComicNeue;
+    src:url(./fonts/Comic_Neue/ComicNeue-Regular.ttf);
+}
+
+/* font-family:jokerman */
+@font-face {
+    font-family: jokerman;
+    src:url(./fonts/Jokerman/JOKERMAN.TTF);
+}
